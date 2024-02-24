@@ -1,1 +1,2 @@
 # Data-Analyst
+With a passion for transforming raw data into actionable insights, I am  a skilled data analyst adept at leveraging statistical methods and advanced analytics techniques to solve complex problems. With almost 8 months  of experience in data analysis and visualization, I posses a strong foundation in SQL, Python, and R programming languages, along with expertise in data manipulation using tools such as Pandas and NumPy.
